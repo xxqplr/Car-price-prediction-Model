@@ -1,3 +1,5 @@
+import os
+import pickle
 import gradio as gr
 import pandas as pd
 import numpy as np
@@ -5,7 +7,10 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 
-# ---- Load & preprocess data ----
+MODEL_PATH = "car_model.pkl"
+ENCODER_PATH = "encoders.pkl"
+
+# ---- Load & preprocess data + train model ----
 def load_and_train():
     df = pd.read_csv("car_prices_jordan.csv")
 
@@ -43,9 +48,19 @@ def load_and_train():
     model = RandomForestRegressor(n_estimators=200, random_state=42)
     model.fit(X, Y)
 
+    # Save model + encoders
+    pickle.dump(model, open(MODEL_PATH, "wb"))
+    pickle.dump((le_trans, le_brand), open(ENCODER_PATH, "wb"))
+
     return df, model, le_trans, le_brand
 
-df, model, le_trans, le_brand = load_and_train()
+# ---- Load existing model or train new ----
+if os.path.exists(MODEL_PATH) and os.path.exists(ENCODER_PATH):
+    model = pickle.load(open(MODEL_PATH, "rb"))
+    le_trans, le_brand = pickle.load(open(ENCODER_PATH, "rb"))
+    df = pd.read_csv("car_prices_jordan.csv")
+else:
+    df, model, le_trans, le_brand = load_and_train()
 
 # ---- Prediction Function ----
 def predict_car_price(brand, power, year, trans):
@@ -58,18 +73,17 @@ def predict_car_price(brand, power, year, trans):
         prediction = model.predict(new_data)[0]
         return f"Estimated price: {round(prediction)} JD"
     except:
-        return "Invalid input or unseen category."
+        return "⚠️ Invalid input or unseen category"
 
 # ---- Build UI ----
-brand_choices = sorted(df["brand"].unique())
-trans_choices = sorted(df["Trans"].unique())
-trans_labels = le_trans.inverse_transform(trans_choices)
+brand_choices = sorted(df["Model"].str.split(" ").str[0].unique())
+trans_choices = le_trans.inverse_transform(sorted(df["Trans"].unique()))
 
 inputs = [
     gr.Dropdown(brand_choices, label="Brand"),
     gr.Number(label="Engine Power (CC)", value=1600),
     gr.Number(label="Year", value=2021),
-    gr.Dropdown(list(trans_labels), label="Transmission")
+    gr.Dropdown(list(trans_choices), label="Transmission")
 ]
 
 output = gr.Textbox(label="Predicted Price")
