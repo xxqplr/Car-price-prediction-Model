@@ -1,0 +1,367 @@
+Index,Model,Trans,Power,Price,brand,Year
+0,Byd F0 2018,Manual,1000,6900,Byd,2018
+1,Suzuki Alto 2023,Manual,800,8250,Suzuki,2023
+2,Suzuki Celerio 2019,Automatic,1000,10499,Suzuki,2019
+3,Changan E Star 2023,Automatic,2127,10990,Changan,2023
+4,Hyundai Grand i10 2020,Automatic,1250,11500,Hyundai,2020
+5,Baic X35 2023,Manual,1500,11900,Baic,2023
+6,Nissan Micra 2020,Automatic,1500,11950,Nissan,2020
+7,Kia Picanto 2021,Automatic,1200,12210,Kia,2021
+8,Hyundai Atos 2021,Manual,1100,13000,Hyundai,2021
+9,Kia Pegas 2021,Manual,1400,13400,Kia,2021
+10,Mitsubishi Mirage 2021,Automatic,1200,13950,Mitsubishi,2021
+11,Changan V7 2021,Automatic,1500,14000,Changan,2021
+12,Changan V3 2023,Automatic,1500,14000,Changan,2023
+13,Kia Picanto 2023,Automatic,1200,14100,Kia,2023
+14,Kia Picanto 2023,Automatic,1200,14250,Kia,2023
+15,Mitsubishi Attrage 2021,Automatic,1200,14500,Mitsubishi,2021
+16,Lada Vesta 2019,Automatic,1600,14500,Lada,2019
+17,MG 5 2023,Automatic,1500,14900,MG,2023
+18,Byd F3 2022,Automatic,1500,14950,Byd,2022
+19,Changan CX 30 2018,Automatic,1600,15000,Changan,2018
+20,GAC GA4 2021,Manual,1500,15500,GAC,2021
+21,Suzuki Baleno 2023,Automatic,1500,15500,Suzuki,2023
+22,Renault Logan 2021,Automatic,1600,16000,Renault,2021
+23,Suzuki Ertiga 2023,Automatic,1500,16250,Suzuki,2023
+24,Peugeot 301 2023,Automatic,1600,16500,Peugeot,2023
+25,Changan Eado 2023,Automatic,1600,16500,Changan,2023
+26,Changan CS 15 2023,Automatic,1500,16500,Changan,2023
+27,Jac S3 2022,Automatic,1600,16700,Jac,2022
+28,Suzuki Ciaz 2022,Automatic,1400,16900,Suzuki,2022
+29,Dongfeng A30 2023,Automatic,1500,17000,Dongfeng,2023
+30,GAC GS3 2023,Automatic,1500,17000,GAC,2023
+31,Suzuki Baleno 2023,Automatic,1500,17250,Suzuki,2023
+32,Lada Niva 2022,Automatic,1700,17500,Lada,2022
+33,Hyundai Accent HCI 2020,Automatic,1600,17500,Hyundai,2020
+34,Senova X25 2019,Automatic,1500,17500,Senova,2019
+35,Baic X35 2023,Automatic,1500,17900,Baic,2023
+36,Honda City 2021,Automatic,1500,17900,Honda,2021
+37,Renault Sandero Step Way 2022,Automatic,1600,18000,Renault,2022
+38,Lada Granta 2022,Automatic,1600,18000,Lada,2022
+39,GAC GS3 2024,Automatic,1500,18400,GAC,2024
+40,Dongfeng A30 2023,Automatic,1500,18500,Dongfeng,2023
+41,Peugeot 208 2019,Automatic,1600,18500,Peugeot,2019
+42,Ford EcoSport 2021,Automatic,1500,18900,Ford,2021
+43,Renault Zoe 2021,Automatic,2127,18900,Renault,2021
+44,Hyundai Elantra AD 2020,Automatic,1600,19000,Hyundai,2020
+45,Hyundai Accent 2023,Automatic,1400,19000,Hyundai,2023
+46,Kia Rio 2022,Automatic,1600,19000,Kia,2022
+47,Toyota Yaris 2023,Automatic,1500,19500,Toyota,2023
+48,Opel Astra 2021,Automatic,1400,19500,Opel,2021
+49,Kia Cerato 2023,Automatic,1600,19750,Kia,2023
+50,Nissan Sunny 2022 Facelift,Automatic,1600,19900,Nissan,2021
+51,Jac J7 2023,Automatic,1500,19900,Jac,2023
+52,Renault Megane 2021,Automatic,1600,19900,Renault,2021
+53,Mitsubishi Xpander 2024,Automatic,1500,20500,Mitsubishi,2024
+54,Kia Sonet 2023,Automatic,1500,20750,Kia,2023
+55,Jac JS4 2023,Automatic,1500,20900,Jac,2023
+56,Nissan Kicks 2022,Automatic,1600,20900,Nissan,2022
+57,Chevrolet Groove 2023,Automatic,1500,20950,Chevrolet,2023
+58,Changan CS 35 2022,Automatic,1400,21000,Changan,2022
+59,Dongfeng S60 2023,Automatic,2127,21500,Dongfeng,2023
+60,GAC GS5 2022,Automatic,1500,21900,GAC,2022
+61,Honda JAZZ 2022,Automatic,1500,21900,Honda,2022
+62,Nissan Sunny 2022 Facelift,Automatic,1600,21900,Nissan,2021
+63,Changan Eado plus 2023,Automatic,1400,21900,Changan,2023
+64,Mitsubishi ASX 2023,Automatic,2000,21950,Mitsubishi,2023
+65,Hyundai Creta 2022,Automatic,1500,22000,Hyundai,2022
+66,Dongfeng E70 PRO 2023,Automatic,2127,22000,Dongfeng,2023
+67,MG GT 2023,Automatic,1500,22500,MG,2023
+68,Honda Civic 2020,Automatic,1600,22500,Honda,2020
+69,Chevrolet Groove 2023,Automatic,1500,22750,Chevrolet,2023
+70,Nissan Kicks 2022,Automatic,1600,22900,Nissan,2022
+71,Mazda 3 2024,Automatic,1600,22900,Mazda,2024
+72,MG One 2023,Automatic,1500,22900,MG,2023
+73,Bestune E05 2023,Automatic,2127,22900,Bestune,2023
+74,Changan CS 35 Plus 2023,Automatic,2000,22900,Changan,2023
+75,Baic EU5 Plus 2024,Automatic,2127,22900,Baic,2024
+76,Geely Cool Ray 2022,Manual,1500,23000,Geely,2022
+77,Hyundai Elantra 2023,Automatic,1600,23500,Hyundai,2023
+78,Byd Qin Pro 2022,Automatic,1500,23500,Byd,2022
+79,MG GT 2023,Automatic,1500,23500,MG,2023
+80,Haval Jolion 2022,Automatic,1500,23500,Haval,2022
+81,MG 6 2022,Automatic,1500,23500,MG,2022
+82,Nissan LEAF 2020,Automatic,2127,23500,Nissan,2020
+83,GAC Aion 2023,Automatic,2127,23750,GAC,2023
+84,Opel Corsa E 2024,Automatic,2127,23900,Opel,2024
+85,Dongfeng A60 2023,Automatic,1500,24000,Dongfeng,2023
+86,Hyundai Ioniq 2021,Automatic,1600,24500,Hyundai,2021
+87,MG 6 2022,Automatic,1500,24500,MG,2022
+88,Suzuki Jimny 2022,Automatic,1500,24500,Suzuki,2022
+89,Chevrolet Malibu 2020,Automatic,1500,24900,Chevrolet,2020
+90,Baic X55 2023,Automatic,1500,24900,Baic,2023
+91,Chevrolet Captiva 2023,Automatic,1500,25000,Chevrolet,2023
+92,Nissan Navara 2022,Manual,2500,25000,Nissan,2022
+93,Honda HRV 2021,Automatic,1800,25000,Honda,2021
+94,Bestune B70S 2023,Automatic,1500,25500,Bestune,2023
+95,MG MG 4 2023,Automatic,2127,25500,MG,2023
+96,Kia Seltos 2023,Automatic,1600,25500,Kia,2023
+97,GAC GS5 2022,Automatic,1500,25900,GAC,2022
+98,Nissan Kicks 2022,Automatic,1600,25900,Nissan,2022
+99,Mazda CX 30 2024,Automatic,2000,25900,Mazda,2024
+100,Mazda CX 30 2024,Automatic,2000,25900,Mazda,2024
+101,Toyota C-HR 2022,Automatic,1800,25900,Toyota,2022
+102,GAC GS5 2022,Automatic,1500,25900,GAC,2022
+103,Nissan Kicks 2022,Automatic,1600,25900,Nissan,2022
+104,Mitsubishi Outlander 2022,Automatic,2400,25950,Mitsubishi,2022
+105,Chevrolet Captiva 2024,Automatic,1500,25950,Chevrolet,2024
+106,Dongfeng T5 Evo 2023,Automatic,1500,26000,Dongfeng,2023
+107,Bestune B70 2023,Automatic,1500,26500,Bestune,2023
+108,MG Rx5 2023,Automatic,1500,26500,MG,2023
+109,Peugeot E-2008 2023,Automatic,2127,26500,Peugeot,2023
+110,Chevrolet Captiva 2023,Automatic,1500,26500,Chevrolet,2023
+111,MG One 2023,Automatic,1500,26500,MG,2023
+112,Toyota Corolla Cross 2022,Automatic,1800,26750,Toyota,2022
+113,Dongfeng AX7 Mach 2023,Automatic,1500,26800,Dongfeng,2023
+114,MG ZS EV 2023,Automatic,1500,26900,MG,2023
+115,Chevrolet Bolt 2019,Automatic,2127,26900,Chevrolet,2019
+116,Kia Sportage 2023,Automatic,1600,27000,Kia,2023
+117,Peugeot 508 2019,Automatic,1600,27200,Peugeot,2019
+118,Renault Duster 2021,Automatic,2000,27500,Renault,2021
+119,Haval Ora 2023,Automatic,2127,27500,Haval,2023
+120,Hyundai Kona 2023,Automatic,2127,27500,Hyundai,2023
+121,Geely Azkarra 2022,Automatic,1500,27900,Geely,2022
+122,Mazda CX 30 2021,Automatic,2000,27900,Mazda,2021
+123,Toyota C-HR 2022,Automatic,1800,27900,Toyota,2022
+124,Bestune T77 Pro 2022,Automatic,1500,27900,Bestune,2022
+125,MG Rx5 2023,Automatic,1500,28500,MG,2023
+126,Dongfeng T5 HEV 2024,Automatic,1500,28500,Dongfeng,2024
+127,Chevrolet Captiva 2023,Automatic,1500,28500,Chevrolet,2023
+128,Peugeot E-2008 2023,Automatic,2127,28500,Peugeot,2023
+129,Toyota Corolla Cross 2022,Automatic,1800,28500,Toyota,2022
+130,MG HS 2022,Automatic,2000,28500,MG,2022
+131,Dongfeng Huge 2024,Automatic,1500,28750,Dongfeng,2024
+132,Mazda 6 2020,Automatic,2000,29000,Mazda,2020
+133,Dongfeng M4 U-Tour 2023,Automatic,1500,29000,Dongfeng,2023
+134,Peugeot 3008 2019,Automatic,1600,29000,Peugeot,2019
+135,MG One 2023,Automatic,1500,29000,MG,2023
+136,Hyundai Tucson GDI 2020,Automatic,2000,29500,Hyundai,2020
+137,Ford Fusion 2019,Automatic,2500,29500,Ford,2019
+138,Opel Grandland 2021,Automatic,1600,29900,Opel,2021
+139,Geely Okavango 2022,Automatic,1500,29900,Geely,2022
+140,Baic X7 2023,Automatic,1500,29900,Baic,2023
+141,Ford Escape 2020,Automatic,2000,29900,Ford,2020
+142,Mitsubishi Outlander 2022,Automatic,2400,29950,Mitsubishi,2022
+143,Renault Koleos 2021,Automatic,2500,29999,Renault,2021
+144,Changan CS75 2022,Automatic,2000,29999,Changan,2022
+145,Mitsubishi L 200 2023,Automatic,2400,30000,Mitsubishi,2023
+146,Hyundai Sonata 2022,Automatic,2500,30000,Hyundai,2022
+147,Toyota Camry 2022,Automatic,2500,30000,Toyota,2022
+148,Peugeot E-2008 2023,Automatic,2127,30400,Peugeot,2023
+149,MG Rx5 2023,Automatic,1500,30500,MG,2023
+150,Mazda CX 5 2024,Automatic,2500,30900,Mazda,2024
+151,Kia Niro 2023,Automatic,1600,31000,Kia,2023
+152,Changan UNI-T 2023,Automatic,1500,31500,Changan,2023
+153,Honda Accord 2021,Automatic,1500,31900,Honda,2021
+154,Mitsubishi Eclipse Cross 2020,Automatic,1500,31950,Mitsubishi,2020
+155,Mitsubishi Outlander 2022,Automatic,2400,31950,Mitsubishi,2022
+156,Kia K5 2023,Automatic,2500,32000,Kia,2023
+157,Kia Sportage 2023,Automatic,1600,32500,Kia,2023
+158,MG HS 2022,Automatic,2000,33000,MG,2022
+159,Audi A3 2019,Automatic,1000,33728,Audi,2019
+160,Changan CS75 Plus 2023,Automatic,2000,33900,Changan,2023
+161,Changan CS 85 2022,Automatic,2000,34000,Changan,2022
+162,MG RX8 2022,Automatic,2000,34000,MG,2022
+163,Peugeot 5008 2019,Automatic,1600,34000,Peugeot,2019
+164,Honda Accord 2021,Automatic,1500,34900,Honda,2021
+165,Nissan Xterra 2022,Automatic,2500,34900,Nissan,2022
+166,GAC GS8 2023,Automatic,2000,34900,GAC,2023
+167,Nissan XTrail 2023,Automatic,2500,34900,Nissan,2023
+168,Hyundai Tucson 2023,Automatic,1600,35500,Hyundai,2023
+169,Volkswagen Tiguan 2023,Automatic,1400,35700,Volkswagen,2023
+170,Changan CS 85 2022,Automatic,2000,35999,Changan,2022
+171,Haval Dargo 2022,Automatic,2000,36000,Haval,2022
+172,Toyota Camry 2022,Automatic,2500,36750,Toyota,2022
+173,Chevrolet Bolt 2023,Automatic,2127,36900,Chevrolet,2023
+174,MG RX8 2022,Automatic,2000,37000,MG,2022
+175,Honda CRV 2022,Automatic,2000,37500,Honda,2022
+176,Kia Optima 2022,Automatic,2000,37500,Kia,2022
+177,Baic BJ40 2022,Automatic,2300,37900,Baic,2022
+178,Bestune T99 2023,Automatic,2000,37900,Bestune,2023
+179,Volvo XC 40 2021,Automatic,2000,38000,Volvo,2021
+180,Toyota Camry 2022,Automatic,2500,38900,Toyota,2022
+181,Porsche Macan 2023,Automatic,2000,39000,Porsche,2023
+182,Lexus UX 2020,Automatic,2000,39000,Lexus,2020
+183,Changan CS 95 2022,Automatic,2000,39000,Changan,2022
+184,Haval H9 2022,Automatic,2000,39800,Haval,2022
+185,Baic BJ40 Plus 2023,Automatic,2300,39900,Baic,2023
+186,Honda CRV 2022,Automatic,2000,39900,Honda,2022
+187,Nissan Xterra 2022,Automatic,2500,39900,Nissan,2022
+188,Jeep Gladiator 2023,Automatic,3600,39900,Jeep,2023
+189,Hyundai Santa Fe 2023,Automatic,2500,40000,Hyundai,2023
+190,Nissan Pathfinder 2020,Automatic,2500,40950,Nissan,2020
+191,MG RX8 2022,Automatic,2000,41000,MG,2022
+192,Porsche Macan 2023,Automatic,2000,41000,Porsche,2023
+193,Mazda CX-9 2024,Automatic,2500,41900,Mazda,2024
+194,Toyota Highlander 2022,Automatic,2500,42000,Toyota,2022
+195,Mitsubishi Pajero 2022,Automatic,3800,42950,Mitsubishi,2022
+196,Porsche Macan 2023,Automatic,3000,43000,Porsche,2023
+197,Ford Edge 2021,Automatic,2000,43000,Ford,2021
+198,MG RX8 2022,Automatic,2000,43500,MG,2022
+199,Lexus Es 2021,Automatic,2500,44225,Lexus,2021
+200,Toyota Highlander 2022,Automatic,2500,44500,Toyota,2022
+201,Mazda CX-9 2021,Automatic,2500,45000,Mazda,2021
+202,Infiniti Q50 2019,Automatic,3000,45000,Infiniti,2019
+203,Infiniti QX50 2020,Automatic,2000,45000,Infiniti,2020
+204,Kia Sorento 2023,Automatic,1600,45000,Kia,2023
+205,Mercedes C 200 2019,Automatic,1500,45000,Mercedes,2019
+206,Mitsubishi Montero 2023,Automatic,3000,45000,Mitsubishi,2023
+207,Porsche 718 2023,Automatic,2000,45000,Porsche,2023
+208,Byd Tang 2022,Automatic,2000,45000,Byd,2022
+209,Volvo XC60 2019,Automatic,2000,45900,Volvo,2019
+210,Audi A4 2021,Automatic,1400,46000,Audi,2021
+211,Alfa Romeo Giulia 2022,Automatic,2000,46899,Alfa,2022
+212,Hyundai Santa Fe 2023,Automatic,3500,47000,Hyundai,2023
+213,Kia Telluride 2021,Automatic,3800,47400,Kia,2021
+214,Gmc Terrain 2023,Automatic,1500,47500,Gmc,2023
+215,Gmc Acadia 2023,Automatic,3600,47900,Gmc,2023
+216,Porsche 718 2023,Automatic,2000,48000,Porsche,2023
+217,Volkswagen Teramont 2023,Automatic,2000,48900,Volkswagen,2023
+218,Mazda CX-9 2021,Automatic,2500,49000,Mazda,2021
+219,Toyota Corona 2023,Automatic,2400,49500,Toyota,2023
+220,Volvo S90 2020,Automatic,2000,49900,Volvo,2020
+221,Tank 300 2023,Automatic,2000,50000,Tank,2023
+222,Porsche 718 2023,Automatic,2500,50000,Porsche,2023
+223,Porsche 718 2023,Automatic,2000,50000,Porsche,2023
+224,Subaru WRX 2022,Automatic,2000,50000,Subaru,2022
+225,Ford Expedition 2019,Automatic,3500,51000,Ford,2019
+226,Porsche Macan 2023,Automatic,2900,51000,Porsche,2023
+227,Lexus NX 2020,Automatic,2000,51000,Lexus,2020
+228,Porsche 718 2023,Manual,2000,52000,Porsche,2023
+229,Porsche 718 2023,Automatic,2500,52000,Porsche,2023
+230,Toyota Highlander 2022,Automatic,2500,52900,Toyota,2022
+231,Chevrolet Traverse 2023,Automatic,3600,53500,Chevrolet,2023
+232,Jeep Gladiator 2023,Automatic,3600,54000,Jeep,2023
+233,Kia EV6 2023,Automatic,2127,55000,Kia,2023
+234,Dodge Challenger 2020,Automatic,3600,55000,Dodge,2020
+235,Infiniti QX55 2022,Automatic,2000,55000,Infiniti,2022
+236,Volvo XC90 2019,Automatic,2000,55000,Volvo,2019
+237,Audi Q5 2019,Automatic,2000,55284,Audi,2019
+238,Audi A5 2019,Automatic,2000,56000,Audi,2019
+239,Audi A5 2023,Automatic,2000,56000,Audi,2023
+240,Lexus GX 2021,Automatic,4600,56135,Lexus,2021
+241,Cadillac XT4 2023,Automatic,2000,57000,Cadillac,2023
+242,Jaguar E-pace 2022,Automatic,2000,57910,Jaguar,2022
+243,Land Rover Range Rover Evoque 2022,Automatic,2000,57960,Land,2022
+244,Jaguar XE 2021,Automatic,2000,58530,Jaguar,2021
+245,Lexus Gs 2020,Automatic,3500,58646,Lexus,2020
+246,Porsche 718 2023,Manual,4000,59000,Porsche,2023
+247,BMW 330 2022,Automatic,2000,59000,BMW,2022
+248,Porsche Cayenne 2023,Automatic,3000,59000,Porsche,2023
+249,Gmc Acadia 2023,Automatic,3600,59900,Gmc,2023
+250,BMW X3 2021,Automatic,2000,60000,BMW,2021
+251,BMW 5 Series 2000,Automatic,4,60000,BMW,2000
+252,Jeep Grand Cherokee 2023,Automatic,3600,60000,Jeep,2023
+253,BMW 5 Series 2023,Automatic,2000,60000,BMW,2023
+254,Mercedes E 200 2021,A/t,2000,62000,Mercedes,2021
+255,Jeep Wrangler Unlimited 2022,Automatic,3600,62000,Jeep,2022
+256,Porsche Cayenne 2022,Automatic,3600,62000,Porsche,2022
+257,Porsche 718 2023,Manual,4000,62000,Porsche,2023
+258,Jaguar F-Pace 2022,Automatic,2000,63720,Jaguar,2022
+259,BMW X4 2021,Automatic,2000,65000,BMW,2021
+260,Ford Explorer 2022,Automatic,3500,65000,Ford,2022
+261,Jeep Gladiator 2023,Automatic,3600,66000,Jeep,2023
+262,Jaguar XF 2021,Automatic,2000,66490,Jaguar,2021
+263,Mercedes GLS 2021,Automatic,3000,67000,Mercedes,2021
+264,Porsche Cayenne 2023,Automatic,2900,67000,Porsche,2023
+265,Land Rover Velar 2022,Automatic,2000,67360,Land,2022
+266,Lexus GX 2021,Automatic,4600,67700,Lexus,2021
+267,Chevrolet Blazer 2023,Automatic,3600,67900,Chevrolet,2023
+268,Cadillac XT6 2023,Automatic,3600,68000,Cadillac,2023
+269,Mercedes E 200 2021,A/t,2000,68000,Mercedes,2021
+270,Porsche 718 2023,Manual,4000,68000,Porsche,2023
+271,Jeep Grand Cherokee 2023,Automatic,3600,69000,Jeep,2023
+272,Porsche Taycan 2023,Automatic,2127,69000,Porsche,2023
+273,Porsche Cayenne 2023,Automatic,3000,69000,Porsche,2023
+274,Porsche 718 2023,Manual,4000,69000,Porsche,2023
+275,Audi A7 2019,Automatic,2000,69000,Audi,2019
+276,Land Rover Defender 2022,Automatic,2000,69210,Land,2022
+277,Volvo XC90 2019,Automatic,2000,69900,Volvo,2019
+278,Gmc Acadia 2023,Automatic,3600,69900,Gmc,2023
+279,Jeep Wrangler Unlimited 2022,Automatic,3600,70000,Jeep,2022
+280,Mercedes E Class 2021,Automatic,2000,70000,Mercedes,2021
+281,Toyota Prado 2022,Automatic,4000,70000,Toyota,2022
+282,Ford Explorer 2022,Automatic,3300,72000,Ford,2022
+283,Mercedes E 200 2021,A/t,2000,72000,Mercedes,2021
+284,Mercedes E Class 2021,Automatic,2000,73000,Mercedes,2021
+285,Jeep Wrangler 2023,Automatic,3600,73000,Jeep,2023
+286,Mercedes GLS 2021,Automatic,3000,73000,Mercedes,2021
+287,BMW 430 2022,Automatic,2000,75000,BMW,2022
+288,Porsche Panamera 2022,Automatic,3000,75000,Porsche,2022
+289,BMW Z4 2022,Automatic,2000,75000,BMW,2022
+290,Land Rover Discovery 2022,Automatic,3000,75870,Land,2022
+291,Lexus Rx 2022,Automatic,3500,76000,Lexus,2022
+292,BMW 430 2022,Automatic,2000,76000,BMW,2022
+293,Jeep Wrangler Unlimited 2022,Automatic,3600,76000,Jeep,2022
+294,Tesla Model S 2020,Automatic,2127,76990,Tesla,2020
+295,Porsche Taycan Cross Turismo 2023,Automatic,2127,77000,Porsche,2023
+296,Nissan Patrol 2023,Automatic,4000,78000,Nissan,2023
+297,Kia Sonet 2023,Automatic,1500,78773,Kia,2023
+298,Porsche 911 2023,Automatic,3000,79000,Porsche,2023
+299,Gmc Sierra 2022,Automatic,6200,79900,Gmc,2022
+300,Jaguar I-pace 2023,Automatic,2127,80110,Jaguar,2023
+301,Audi Q7 2019,Automatic,2000,80969,Audi,2019
+302,Volkswagen Touareg 2022,Automatic,3000,81000,Volkswagen,2022
+303,Tesla Model X 2020,Automatic,2127,81990,Tesla,2020
+304,Porsche Taycan 2023,Automatic,2127,82000,Porsche,2023
+305,Chevrolet Tahoe 2023,Automatic,5300,82000,Chevrolet,2023
+306,Jaguar F-Type 2023,Automatic,2000,82560,Jaguar,2023
+307,Porsche Taycan Cross Turismo 2023,Automatic,2127,83000,Porsche,2023
+308,Toyota Land Cruiser 2022,Automatic,4000,85000,Toyota,2022
+309,BMW X5 2022,Automatic,3000,85000,BMW,2022
+310,Porsche 911 2023,Automatic,3000,85000,Porsche,2023
+311,Gmc Yukon 2023,Automatic,5300,86000,Gmc,2023
+312,Porsche 911 2023,Automatic,3000,87000,Porsche,2023
+313,Porsche 911 2023,Automatic,3000,88000,Porsche,2023
+314,Porsche Panamera 2022,Automatic,2900,88000,Porsche,2022
+315,Volkswagen T-Roc 2023,Automatic,1400,89900,Volkswagen,2023
+316,Lexus Ls 2020,Automatic,3500,90755,Lexus,2020
+317,Infiniti QX80 2020,Automatic,5600,93000,Infiniti,2020
+318,Porsche 911 2023,Automatic,3000,93000,Porsche,2023
+319,Porsche 911 2023,Manual,3400,93000,Porsche,2023
+320,Porsche 911 2023,Automatic,3000,93000,Porsche,2023
+321,Porsche Taycan 2023,Automatic,2127,95000,Porsche,2023
+322,Lexus Lx 2021,Automatic,5700,95880,Lexus,2021
+323,Porsche Panamera 2022,Automatic,2900,96000,Porsche,2022
+324,Toyota Land Cruiser 2022,Automatic,3500,96000,Toyota,2022
+325,Audi Q8 2019,Automatic,3000,96464,Audi,2019
+326,Porsche 911 2023,Automatic,3000,98000,Porsche,2023
+327,Porsche 911 2023,Automatic,3000,101000,Porsche,2023
+328,Porsche 911 2023,Automatic,3000,102000,Porsche,2023
+329,Porsche 718 2023,Automatic,4000,103000,Porsche,2023
+330,Porsche 911 2023,Automatic,3000,106000,Porsche,2023
+331,Porsche 911 2023,Manual,3800,106000,Porsche,2023
+332,Porsche 911 2023,Automatic,3000,107000,Porsche,2023
+333,Jaguar XJ 2020,Automatic,3000,109740,Jaguar,2020
+334,Maserati Ghibli 2022,Automatic,3000,110000,Maserati,2022
+335,Infiniti QX80 2021,Automatic,5600,110000,Infiniti,2021
+336,Toyota Land Cruiser 2022,Automatic,3500,110000,Toyota,2022
+337,Gmc Yukon 2023,Automatic,5300,110000,Gmc,2023
+338,Audi A8 2019,Automatic,3000,111128,Audi,2019
+339,Porsche 911 2023,Automatic,3000,112000,Porsche,2023
+340,Porsche Taycan 2023,Automatic,2127,115000,Porsche,2023
+341,Porsche Taycan Cross Turismo 2023,Automatic,2127,116000,Porsche,2023
+342,Porsche 911 2023,Automatic,3000,117000,Porsche,2023
+343,Porsche 911 2023,Automatic,3000,117000,Porsche,2023
+344,Maserati Levante 2022,Automatic,3000,119000,Maserati,2022
+345,Porsche 911 2023,Manual,3800,124000,Porsche,2023
+346,Toyota Land Cruiser 2022,Automatic,3500,125000,Toyota,2022
+347,Porsche 911 2023,Manual,3800,131000,Porsche,2023
+348,Porsche 911 2023,Automatic,3800,139000,Porsche,2023
+349,Porsche Taycan 2023,Automatic,2127,147000,Porsche,2023
+350,Maserati Quattroporte 2022,Automatic,3000,147000,Maserati,2022
+351,BMW X7 2022,Automatic,3000,155000,BMW,2022
+352,Porsche 911 2023,Automatic,3800,155000,Porsche,2023
+353,BMW 840i 2022,Automatic,3000,155000,BMW,2022
+354,Porsche 911 2023,Manual,3800,163000,Porsche,2023
+355,Cadillac Escalade 2023,Automatic,6200,165800,Cadillac,2023
+356,Land Rover Range Rover Sport 2022,Automatic,2000,166720,Land,2022
+357,Maserati Levante 2022,Automatic,3800,175000,Maserati,2022
+358,Land Rover Range Rover 2023,Automatic,3000,187350,Land,2023
+359,Genesis GV70 2022,Automatic,2500,191500,Genesis,2022
+360,Genesis G80 2022,Automatic,2500,201500,Genesis,2022
+361,Land Rover Range Rover 2023,Automatic,3000,203350,Land,2023
+362,Maserati Quattroporte 2022,Automatic,3800,210000,Maserati,2022
+363,Maserati Levante 2022,Automatic,3800,220000,Maserati,2022
+364,Genesis GV80 2022,Automatic,2500,239500,Genesis,2022
+365,Cadillac Ecalade V 2023,Manual,6200,250000,Cadillac,2023
